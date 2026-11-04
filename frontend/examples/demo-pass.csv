@@ -1,0 +1,25 @@
+well,role,sample,signal
+A1,positive,Inhibited control,98
+H1,negative,Vehicle control,994
+A2,positive,Inhibited control,101
+H2,negative,Vehicle control,1000
+A3,positive,Inhibited control,100
+H3,negative,Vehicle control,1006
+B4,sample,Compound-B-4,880
+B5,sample,Compound-B-5,600
+B6,sample,Compound-B-6,210
+C4,sample,Compound-C-4,710
+C5,sample,Compound-C-5,450
+C6,sample,Compound-C-6,120
+D4,sample,Compound-D-4,910
+D5,sample,Compound-D-5,860
+D6,sample,Compound-D-6,800
+E4,sample,Compound-E-4,620
+E5,sample,Compound-E-5,400
+E6,sample,Compound-E-6,180
+F4,sample,Compound-F-4,450
+F5,sample,Compound-F-5,260
+F6,sample,Compound-F-6,95
+G4,sample,Compound-G-4,820
+G5,sample,Compound-G-5,710
+G6,sample,Compound-G-6,540
